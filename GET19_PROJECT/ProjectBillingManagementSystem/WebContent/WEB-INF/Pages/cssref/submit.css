@@ -1,0 +1,66 @@
+@charset "ISO-8859-1";
+
+.body{
+  background-color: #87293a;
+  border: 2px solid #009900;
+  height: 20px;
+  width: 25px;
+  margin-left: 100px;
+  padding-left:100px;
+  padding-right:5px;
+}
+
+
+.submitButton {
+ 
+  color: #7b445b;
+  font-size:15px;
+  border: 1px solid #cccccc; 
+ font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  width: auto;
+  padding: 5px 10px 5px 10px;
+  margin-top:10px;
+ position: absolute;
+  
+}
+
+.dataentrydiv1{
+	
+	
+	border:solid black 2px;
+	
+}
+#logout
+{
+	float:right;
+}
+.insertbutton
+{
+	color:black;
+	 font-family: "Times New Roman", Times, serif;
+	 float:center;
+	margin-left:1000px;
+	margin-bottom:80px;
+   
+	
+}
+
+.glyphicon glyphicon-trash
+{
+	color:white;
+}
+
+	
+	.image1
+	{
+	
+	width:100%;
+	margin-top:30px;
+	}
+	.dataentrydiv1
+	{
+	margin-top:100px;
+	background-color:white;
+	}
+}
